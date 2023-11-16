@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "add",
+        "text": "Agrega un usuario nuevo."
+    },
+    {
+        "nombre": "delete",
+        "text": "Elimina un usuario."
+    },
+    {
+        "nombre": "showAll",
+        "text": "Lista todos los usuarios en la BD."
+    },
+    {
+        "nombre": "findName",
+        "text": "Busca por nombre."
+    },
+    {
+        "nombre": "findSurname",
+        "text": "Busca por apellido."
+    },
+    {
+        "nombre": "findAge",
+        "text": "Buscar por edades."
+    },
+    {
+        "nombre": "ageRange",
+        "text": "Busca por rango de edad."
+    },
+    {
+        "nombre": "modifyID",
+        "text": "Modifica usuario por ID."
+    }
+]
